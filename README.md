@@ -75,7 +75,6 @@ Database
 Additional layers:
 
 * Entity layer for database mapping
-* DTO layer for data transfer
 * Security layer for authentication and authorization
 * Exception handling for managing errors
 
@@ -124,7 +123,6 @@ Stores details about job applications submitted by users.
 * Entity relationships using Hibernate and JPA
 * JWT authentication with Spring Security
 * Role-based access control
-* DTO-based data handling
 * Application-level uniqueness validation
 * Exception handling
 * Docker containerization
